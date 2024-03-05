@@ -1,0 +1,14 @@
+[
+  {
+    "apihost": "https://faas-blr1-8177d592.doserverless.co",
+    "namespace": "fn-0b0f94ea-326e-434f-a6db-e297bf02f150",
+    "packageVersions": {},
+    "actionVersions": {
+      "joke/joke": {
+        "digest": "5d5577a2dce7caac47a8c3f90c98821ad88821bf0592a55c0544e3b2bdc9ff16",
+        "version": "0.0.9"
+      }
+    },
+    "webHashes": {}
+  }
+]

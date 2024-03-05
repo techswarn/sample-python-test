@@ -1,0 +1,16 @@
+packages:
+  - name: joke
+    shared: false
+    parameters: {}
+    annotations: {}
+    functions:
+      - name: joke
+        binary: false
+        main: ""
+        runtime: "python:default"
+        web: raw
+        parameters: {}
+        annotations: {}
+        limits:
+          timeout: 1000
+          memory: 128
